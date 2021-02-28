@@ -3,7 +3,7 @@
 # Auto-Generate README
 
 ## Description
-This project is used to auto-generate a README file based on a user answering prompted questions from a README template.
+This project is used to auto-generate a README file based on a user answering prompted questions from a README template. This project used the Inquirer NPM to generate the questions for the README information. Then, using the user inputted responses, a markdown file is created in a fully formatted function for the user's convenience.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -18,16 +18,20 @@ This project is used to auto-generate a README file based on a user answering pr
 ## Installation
 The following NPM dependences are required to be installed for the use of this program: 
 
-Inquirer 
+* Inquirer 
 
 ## Usage
-Execute node ./index.js
+Execute the application using node ./index.js. After answering all the prompted questions/statements, your end product should have something similar to the below image:
+
+<img src="./Demo.png" alt="Example image of a generated README file.">
+
+A demonstration of using this application can be found here: https://drive.google.com/file/d/1LwADZH_9Qcz3wnc4x-lwSLvm7TfnfKb7/view?usp=sharing.
 
 ## Contributing 
-N/A
+Feedback for the project is appreciate. Feel free to use the coding for generating your README files!
 
 ## Testing
-N/A
+No testing is required for this project. 
 
 ## License
 MIT License
@@ -53,7 +57,7 @@ MIT License
         SOFTWARE.
 
 ## Questions
-* If you have questions regarding this program, please contact arthur@gmail.com.
+* If you have questions regarding this program, please contact arthur.leung3@gmail.com.
 
 * If you have questions regarding the repository in general or would like to see more of my work, please see https://github/com/Artydabomb/.
 
