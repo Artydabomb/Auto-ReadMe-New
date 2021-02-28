@@ -21,7 +21,11 @@ The following NPM dependences are required to be installed for the use of this p
 * Inquirer 
 
 ## Usage
-Execute the application using node ./index.js. After answering all the prompted questions/statements, your end product should have something similar to the below image:<img src="./Demo.png" alt="Example image of a generated README file.">
+Execute the application using node ./index.js. After answering all the prompted questions/statements, your end product should have something similar to the below image:
+
+<img src="./Demo.png" alt="Example image of a generated README file.">
+
+A demonstration of using this application can be found here: https://drive.google.com/file/d/1LwADZH_9Qcz3wnc4x-lwSLvm7TfnfKb7/view?usp=sharing.
 
 ## Contributing 
 Feedback for the project is appreciate. Feel free to use the coding for generating your README files!
